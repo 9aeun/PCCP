@@ -1,4 +1,4 @@
-package com.pccp_1_문자열;
+package com.pccp._2_컬렉션;
 
 import java.util.HashSet;
 

@@ -1,4 +1,4 @@
-package com.pccp_1_문자열;
+package com.pccp._1_문자열;
 
 public class _2_StringBuilder {
     public static void main(String[] args) {

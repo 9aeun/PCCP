@@ -1,8 +1,6 @@
-package com.pccp_1_문자열;
+package com.pccp._2_컬렉션;
 
-import java.sql.Array;
 import java.util.ArrayList;
-import java.util.Objects;
 
 public class _3_List {
     public static void main(String[] args) {

@@ -1,7 +1,5 @@
-package com.pccp_1_문자열;
+package com.pccp._1_문자열;
 
-import java.sql.Array;
-import java.sql.SQLOutput;
 import java.util.Arrays;
 
 public class _1_String {
